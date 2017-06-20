@@ -1,0 +1,7 @@
+---
+applications:
+- name: sbs
+  memory: 1G
+  random-route: true
+  path: build/libs/sbs.jar
+
